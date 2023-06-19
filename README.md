@@ -1,7 +1,5 @@
 # Xin chào! Tôi là Phạm Hoàng Minh Hậu
 
-<img alt="avatar" src="https://www.dropbox.com/s/c8c82s4w33c1m4k/me.jpg?dl=0"/>
-
 ## Các dự án
 
 Dưới đây là một số dự án mà tôi đã đóng góp:
