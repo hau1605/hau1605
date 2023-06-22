@@ -8,6 +8,7 @@ Dưới đây là một số dự án mà tôi đã đóng góp:
 
 - [Bán khóa học](https://github.com/hau1605/sell_courses.git): Đồ án môn học xây dựng website bán khóa học.
 - [Quản lý garage](https://github.com/hau1605/ManageGarage.git): Đồ án môn học xây dựng hệ thống lý garage.
+- [Phòng khám](https://github.com/hau1605/medical-center): Xây dựng website phòng khám.
 
 ## Liên hệ
 
